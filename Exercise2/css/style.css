@@ -4,8 +4,25 @@
       margin: auto;
   }
 #sec1{
-	margin-top: 20px;
+	font-family: 'Bonbon';
+	font-size: 20px;
+	background-color: yellow;
 }
 #sec2{
-	margin-top: 20px;
+	margin-top: 100px;
+
+}
+#sec3{
+	margin-top: 30px;
+	font-family: 'Sofia';
+	font-size:20px;
+	text-align: justify;
+}
+#sec4{
+	margin-top: 30px;
+	font-family: Sunshiney;
+	font-size: 30px;
+	text-align: justify;
+	border: 1px solid #00ff00;
+
 }
