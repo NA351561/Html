@@ -17,6 +17,7 @@
 	font-family: 'Sofia';
 	font-size:20px;
 	text-align: justify;
+	background: #ccff99;
 }
 #sec4{
 	margin-top: 30px;
@@ -24,5 +25,26 @@
 	font-size: 30px;
 	text-align: justify;
 	border: 1px solid #00ff00;
+	background: #ff99cc;
 
+}
+#sec4 img{
+	margin: auto;
+}
+#sec5{
+	margin-top: 30px;
+	border: 1px solid #476b6b;
+	background: #4dffff;
+	font-family: Sunshiney;
+	font-size: 20px;
+}
+a:hover{
+	color: red;
+}
+a:visited {
+    text-decoration: none;
+}
+footer p{
+	font-family:sans-serif;
+	font-size: 20px;
 }
