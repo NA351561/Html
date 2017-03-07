@@ -5,7 +5,7 @@
   }
 #sec1{
 	font-family: 'Bonbon';
-	font-size: 20px;
+	font-size: 1.5vw;
 	background-color: yellow;
 }
 #sec2{
@@ -15,14 +15,14 @@
 #sec3{
 	margin-top: 30px;
 	font-family: 'Sofia';
-	font-size:20px;
+	font-size: 2vw;
 	text-align: justify;
 	background: #ccff99;
 }
 #sec4{
 	margin-top: 30px;
 	font-family: Sunshiney;
-	font-size: 30px;
+	font-size: 2vw;
 	text-align: justify;
 	border: 1px solid #00ff00;
 	background: #ff99cc;
